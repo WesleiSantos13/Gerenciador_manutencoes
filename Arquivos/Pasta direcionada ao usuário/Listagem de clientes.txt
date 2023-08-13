@@ -1,0 +1,19 @@
+         LISTA DE CLIENTES :
+
+CÓDIGO:1|INFORMAÇÕES:{'Nome': 'WESLEI', 'Endereço': '', 'Telefone': ''}
+CÓDIGO:2|INFORMAÇÕES:{'Nome': 'MAICAO', 'Endereço': '', 'Telefone': ''}
+CÓDIGO:3|INFORMAÇÕES:{'Nome': 'JAQUES', 'Endereço': '', 'Telefone': ''}
+CÓDIGO:4|INFORMAÇÕES:{'Nome': 'SARA', 'Endereço': '', 'Telefone': ''}
+CÓDIGO:5|INFORMAÇÕES:{'Nome': 'GILERT', 'Endereço': '', 'Telefone': ''}
+CÓDIGO:6|INFORMAÇÕES:{'Nome': 'CAMARO', 'Endereço': '', 'Telefone': ''}
+CÓDIGO:7|INFORMAÇÕES:{'Nome': 'WESLEI', 'Endereço': '', 'Telefone': ''}
+CÓDIGO:8|INFORMAÇÕES:{'Nome': 'TER', 'Endereço': '', 'Telefone': ''}
+CÓDIGO:9|INFORMAÇÕES:{'Nome': 'ZEBRA', 'Endereço': '', 'Telefone': ''}
+CÓDIGO:10|INFORMAÇÕES:{'Nome': 'XELIS', 'Endereço': '', 'Telefone': ''}
+CÓDIGO:11|INFORMAÇÕES:{'Nome': 'PAULA', 'Endereço': '', 'Telefone': ''}
+CÓDIGO:12|INFORMAÇÕES:{'Nome': 'LEAO', 'Endereço': '', 'Telefone': ''}
+CÓDIGO:13|INFORMAÇÕES:{'Nome': 'VASCO', 'Endereço': '', 'Telefone': ''}
+CÓDIGO:14|INFORMAÇÕES:{'Nome': 'EDUARDO', 'Endereço': '', 'Telefone': ''}
+CÓDIGO:15|INFORMAÇÕES:{'Nome': 'JUVIS', 'Endereço': '', 'Telefone': ''}
+CÓDIGO:16|INFORMAÇÕES:{'Nome': 'RUSSEAU', 'Endereço': '', 'Telefone': ''}
+CÓDIGO:17|INFORMAÇÕES:{'Nome': 'FAGNER', 'Endereço': '', 'Telefone': ''}

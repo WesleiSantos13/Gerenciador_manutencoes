@@ -1,0 +1,34 @@
+1
+{'Nome': 'WESLEI', 'Endereço': '', 'Telefone': ''}
+2
+{'Nome': 'MAICAO', 'Endereço': '', 'Telefone': ''}
+3
+{'Nome': 'JAQUES', 'Endereço': '', 'Telefone': ''}
+4
+{'Nome': 'SARA', 'Endereço': '', 'Telefone': ''}
+5
+{'Nome': 'GILERT', 'Endereço': '', 'Telefone': ''}
+6
+{'Nome': 'CAMARO', 'Endereço': '', 'Telefone': ''}
+7
+{'Nome': 'WESLEI', 'Endereço': '', 'Telefone': ''}
+8
+{'Nome': 'TER', 'Endereço': '', 'Telefone': ''}
+9
+{'Nome': 'ZEBRA', 'Endereço': '', 'Telefone': ''}
+10
+{'Nome': 'XELIS', 'Endereço': '', 'Telefone': ''}
+11
+{'Nome': 'PAULA', 'Endereço': '', 'Telefone': ''}
+12
+{'Nome': 'LEAO', 'Endereço': '', 'Telefone': ''}
+13
+{'Nome': 'VASCO', 'Endereço': '', 'Telefone': ''}
+14
+{'Nome': 'EDUARDO', 'Endereço': '', 'Telefone': ''}
+15
+{'Nome': 'JUVIS', 'Endereço': '', 'Telefone': ''}
+16
+{'Nome': 'RUSSEAU', 'Endereço': '', 'Telefone': ''}
+17
+{'Nome': 'FAGNER', 'Endereço': '', 'Telefone': ''}
